@@ -12,6 +12,10 @@ Train a ML model on the EuroSAT land cover classification dataset.
 
 ## **results of the model training code:**
 
+![Capture web_20-3-2023_224944_colab research google com](https://user-images.githubusercontent.com/128367525/226475069-157537da-91ed-4e21-8c58-fb6bc0882bec.jpeg)
+
+![Capture web_20-3-2023_224812_colab research google com](https://user-images.githubusercontent.com/128367525/226475164-1f590af0-3054-4809-99ce-4a4603643526.jpeg)
+
 ![Capture web_20-3-2023_224744_colab research google com](https://user-images.githubusercontent.com/128367525/226474928-33f7e0a0-c2e3-4991-873d-9d04bdb1cc89.jpeg)
 
 
