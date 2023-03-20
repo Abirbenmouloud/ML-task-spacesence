@@ -1,7 +1,18 @@
 # ML-task-spacesence
 Train a ML model on the EuroSAT land cover classification dataset.
 
+## Question 1:
 
+## **I have defined two functions:**
+- "load_data" loads images from a specified path, resizes them to a given size, stores them in a numpy array and labels them with integers corresponding to their respective classes. The labels are then converted to one-hot encoding. The images and labels are then randomly shuffled.
+
+- "data_generator" defines a data generator that divides the images and labels into batches of a given size, and then iteratively returns these batches until all images and labels are exhausted.
+
+- Then the necessary parameters are defined and the "load_data" function is called to load the images and labels from the "2750" directory and store them in "images" and "labels" variables.
+
+## **results of the model training code:**
+
+![Capture web_20-3-2023_224744_colab research google com](https://user-images.githubusercontent.com/128367525/226474928-33f7e0a0-c2e3-4991-873d-9d04bdb1cc89.jpeg)
 
 
 ## Question 3:
